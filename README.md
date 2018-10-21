@@ -49,7 +49,4 @@ Another shortcoming could be if there is one car in front of the camera, it woul
 
 The possible improvements could be
 * Update the _**Region of Interest**_ dynamically
-* If no line is detected, the pipeline could estimate the right and left lanes based on previous information or based on some other references (I think I would learn more information/techniques from the course)
-"# CarND-LaneLines-P1" 
-"# CarND-LaneLines-P1" 
-"# CarND-LaneLines-P1" 
+* If no line is detected, the pipeline could estimate the right and left lanes based on previous information or based on some other references (I think I would learn more information/techniques from the course).
